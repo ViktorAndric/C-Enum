@@ -7,6 +7,11 @@
             //Enum:
             // 
             Console.WriteLine("Hello, Viktor!");
+            Console.WriteLine("Detta är version 2");
+
+            //GITHUB:
+            //1. Stagea förrändringar
+            //
         }
     }
 }
